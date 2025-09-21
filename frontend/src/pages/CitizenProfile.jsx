@@ -1,0 +1,1 @@
+export default function CitizenProfile() { return <div>Citizen Profile Page</div>; }

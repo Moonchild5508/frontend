@@ -1,0 +1,4 @@
+export function getDistance(lat1, lon1, lat2, lon2) {
+  // Haversine formula placeholder
+  return Math.sqrt((lat1 - lat2) ** 2 + (lon1 - lon2) ** 2);
+}
